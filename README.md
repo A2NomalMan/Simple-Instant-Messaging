@@ -6,3 +6,5 @@ The following functions are implemented：
 2. Login UI
 3. Friends interface UI
 4. Database（Simple）
+
+Comments in codes are written in Chinese, I will translate its to English when I have free time.
